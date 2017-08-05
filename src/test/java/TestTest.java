@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 public class TestTest {
     @Test
     public void test1() throws Exception {
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test

@@ -23,9 +23,7 @@ public class TestTest {
     }
 
     @Test
-    @Ignore
     public void test3() throws Exception {
-
-
+        assertTrue(false);
     }
 }
